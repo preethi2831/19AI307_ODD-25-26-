@@ -44,6 +44,7 @@ RegisterNumber:  212223040130
 */
 ```
 ## Sourcecode.java:
+```
 import java.util.Scanner;
 
 public class ArithmeticOperations {
@@ -62,6 +63,7 @@ public class ArithmeticOperations {
         sc.close();
     }
 }
+```
 ## OUTPUT:
 
 <img width="1252" height="354" alt="image" src="https://github.com/user-attachments/assets/c6e7daff-3591-4c6b-9a52-2295d6df5fb8" />
