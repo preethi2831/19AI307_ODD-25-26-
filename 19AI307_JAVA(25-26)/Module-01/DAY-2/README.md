@@ -35,6 +35,7 @@ Developed by: N Preethika
 RegisterNumber: 212223040130
 */
 ## SOURCE CODE:
+```
 import java.util.Scanner;
 
 public class PirateCodeLock {
@@ -57,7 +58,7 @@ public class PirateCodeLock {
         }
     }
 }
-
+```
 ## OUTPUT:
 
 <img width="1253" height="395" alt="image" src="https://github.com/user-attachments/assets/567eeca1-1e3b-489e-83af-41b4baa36db5" />
